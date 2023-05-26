@@ -120,6 +120,10 @@ strong  {
   padding-right: 40px;
 }
 
+footer{
+  padding: 30px;
+}
+
 ul li {
   list-style: none;
 }
